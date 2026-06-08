@@ -55,7 +55,7 @@ git clone https://github.com/moc81966-maker/claude-statusline.git
 
 3. 重启 Claude Code 即可生效
 
-## 📖 Display Legend
+##  Display Legend
 
 | 图标 | 含义 | 说明 |
 |:----:|------|------|
