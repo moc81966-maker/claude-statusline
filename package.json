@@ -1,0 +1,28 @@
+{
+  "name": "claude-statusline",
+  "version": "1.0.0",
+  "description": "Claude Code context usage statusline - shows token usage, remaining messages, and conversation turns",
+  "main": "statusline.js",
+  "bin": {
+    "claude-statusline": "statusline.js"
+  },
+  "scripts": {
+    "install-plugin": "node install.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "statusline",
+    "context",
+    "token-usage"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/claude-statusline.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
