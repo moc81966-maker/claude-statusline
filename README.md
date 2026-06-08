@@ -28,7 +28,7 @@
 ### 方式一：一键安装（推荐）
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-statusline.git
+git clone https://github.com/moc81966-maker/claude-statusline.git
 cd claude-statusline
 node install.js
 ```
@@ -38,7 +38,7 @@ node install.js
 1. 克隆仓库到本地：
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-statusline.git
+git clone https://github.com/moc81966-maker/claude-statusline.git
 ```
 
 2. 编辑 `~/.claude/settings.json`，添加 `statusLine` 配置：
