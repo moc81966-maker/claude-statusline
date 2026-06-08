@@ -1,6 +1,6 @@
 # claude-statusline
 
-> 📊 Claude Code 上下文使用量监控状态栏
+>  Claude Code 上下文使用量监控状态栏
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org/)
@@ -17,13 +17,13 @@
 - 📌 当前会话名称显示
 - 每 10 秒自动刷新
 
-## 📸 Preview
+##  Preview
 
 ```
 🟢 ██████░░░░ 58.3% │ 💬 ~42 msgs │ 🔄 15 turns │ ⚡ 5h:12%
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### 方式一：一键安装（推荐）
 
@@ -67,7 +67,7 @@ git clone https://github.com/moc81966-maker/claude-statusline.git
 | ⚡ | Rate Limit | 5 小时窗口使用率 |
 | 📌 | 会话名 | 通过 /rename 设置的名称 |
 
-## ⚙️ Configuration
+##  Configuration
 
 修改 `~/.claude/settings.json` 中的参数：
 
@@ -81,7 +81,7 @@ git clone https://github.com/moc81966-maker/claude-statusline.git
 }
 ```
 
-## 🗑️ Uninstall
+##  Uninstall
 
 从 `~/.claude/settings.json` 中删除整个 `statusLine` 配置块：
 
@@ -93,7 +93,7 @@ git clone https://github.com/moc81966-maker/claude-statusline.git
 - },
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 欢迎提交 Issue 和 Pull Request！
 
@@ -103,7 +103,7 @@ git clone https://github.com/moc81966-maker/claude-statusline.git
 4. 推送到分支 (`git push origin feature/amazing-feature`)
 5. 打开一个 Pull Request
 
-## 📝 Changelog
+##  Changelog
 
 ### v1.0.0 (2026-06-08)
 - 🎉 初始发布
@@ -112,7 +112,7 @@ git clone https://github.com/moc81966-maker/claude-statusline.git
 - 对话轮数统计
 - Rate limit 监控
 
-## 📄 License
+##  License
 
 [MIT](LICENSE) © 2026
 
