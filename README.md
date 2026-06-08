@@ -117,7 +117,3 @@ git clone https://github.com/moc81966-maker/claude-statusline.git
 [MIT](LICENSE) © 2026
 
 ---
-
-<p align="center">
-  Made with ❤️ for <a href="https://docs.anthropic.com/en/docs/claude-code">Claude Code</a>
-</p>
