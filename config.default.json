@@ -1,0 +1,10 @@
+{
+  "warnThreshold": 70,
+  "autoCompactThreshold": 85,
+  "refreshInterval": 10,
+  "showCost": true,
+  "showDuration": true,
+  "costPer1kInput": 0.015,
+  "costPer1kOutput": 0.075,
+  "tempDir": ""
+}

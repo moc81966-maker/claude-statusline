@@ -1,7 +1,7 @@
 {
   "name": "claude-statusline",
-  "version": "1.0.0",
-  "description": "Claude Code context usage statusline - shows token usage, remaining messages, and conversation turns",
+  "version": "2.0.0",
+  "description": "Claude Code context usage statusline - shows token usage, remaining messages, session duration, cost estimation, and auto-compact",
   "main": "statusline.js",
   "bin": {
     "claude-statusline": "statusline.js"
@@ -14,13 +14,14 @@
     "claude-code",
     "statusline",
     "context",
-    "token-usage"
+    "token-usage",
+    "auto-compact"
   ],
-  "author": "",
+  "author": "moc81966-maker",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/claude-statusline.git"
+    "url": "https://github.com/moc81966-maker/claude-statusline.git"
   },
   "engines": {
     "node": ">=14.0.0"
